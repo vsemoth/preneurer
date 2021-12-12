@@ -1,8 +1,6 @@
 tags:
   - slug: document
     name: document
-  - slug: mock
-    name: mock
   - slug: style
     name: style
   - slug: license
@@ -11,3 +9,11 @@ tags:
     name: mdx
   - slug: markdown
     name: markdown
+  - slug: entrepreneurship
+    name: Entrepreneurship
+  - slug: start-ups
+    name: Start-ups
+  - slug: imposter-syndrome
+    name: Imposter-Syndrome
+  - slug: motivation
+    name: Motivation
