@@ -1,6 +1,9 @@
 authors:
   - slug: wutali
     name: Takahiro Fujiwara
-    introduction:
-      Co-founder and CTO at Fuller, Inc. / Software & Data Engineer /
+    introduction: Co-founder and CTO at Fuller, Inc. / Software & Data Engineer /
       Python / Golang / React
+  - slug: vsemoth
+    name: Lwandile Rozani
+    introduction: I'm Lwandile Rozani, a web developer who develops websites in
+      NextJS, Laravel and vanilla JavaScript.
