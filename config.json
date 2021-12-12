@@ -3,9 +3,7 @@
   "site_title": "Preneur Blog",
   "site_description": "The blog for small start-ups",
   "site_keywords": [
-    "entrepreneur",
-    "start-up",
-    "blog"
+    "startups"
   ],
   "posts_per_page": 5,
   "twitter_account": "@my-account",
